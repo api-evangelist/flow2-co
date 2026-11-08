@@ -1,4 +1,4 @@
-# flow2-co
+# Flow2
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-flow2-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://flow2.co/
+Flow2 is an AI‑powered mobile presentation platform that lets users create interactive presentations in seconds. Built by the team behind FlowVella, it serves over 700,000 users since 2013, offering prompt‑based generation, editing, and shareable links. The service focuses on mobile‑first experiences and integrates with popular content sources.
+
+**Areas:** AI · Presentation · Mobile · Interactive · FlowVella
+
+## Flow2 on APIs.io
+
+Everything profiled for Flow2 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flow2-co/](https://apis.io/providers/flow2-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Flow2 API](https://apis.io/apis/flow2-co/flow2-api/) — API documentation is provided at the developers portal, but no machine-readable contract was found.
+- [Flow2 API](https://apis.io/apis/flow2-co/flow2-co-api/) — Flow2 API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-11-08); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiBlocksSchemaResponse](https://apis.io/schemas/flow2-co/flow2-co-get-api-blocks-schema-response/)
+- [GetApiCreditsResponse](https://apis.io/schemas/flow2-co/flow2-co-get-api-credits-response/)
+- [GetApiFlowsIdVersionsResponse](https://apis.io/schemas/flow2-co/flow2-co-get-api-flows-id-versions-response/)
+- [GetApiFlowsIdVersionsVidResponse](https://apis.io/schemas/flow2-co/flow2-co-get-api-flows-id-versions-vid-response/)
+- [GetApiJobStatusJobidResponse](https://apis.io/schemas/flow2-co/flow2-co-get-api-job-status-jobid-response/)
+- [PostApiCreateFlowResponse](https://apis.io/schemas/flow2-co/flow2-co-post-api-create-flow-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Flow2 Co Context](https://apis.io/jsonld/flow2-co/flow2-co-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Flow2 API Rules](https://apis.io/rules/flow2-co/flow2-co-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Flow2 Co Domain Security](https://apis.io/security/flow2-co/flow2-co-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Flow2 Co Plans Pricing](https://apis.io/plans/flow2-co/flow2-co-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flow2.co/)
+- [Documentation](https://flow2.co/developers)
+- [Getting started](https://flow2.co/developers)
+- [API reference](https://flow2.co/developers)
+- [Pricing](https://flow2.co/pricing)
+- [Support](https://flow2.co/support)
+- [Blog](https://flow2.co/blog)
+- [Terms of service](https://flow2.co/static/tos)
+- [Privacy policy](https://flow2.co/static/privacy)
+
+## API Evangelist rating
+
+**Kin Score 54.1** — developing · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 53.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 73.2 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flow2-co/](https://apis.io/providers/flow2-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flow2: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flow2-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
